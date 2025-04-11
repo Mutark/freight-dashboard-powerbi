@@ -1,0 +1,21 @@
+ShipmentID,Carrier,Origin,Destination,PlannedDeliveryDate,ActualDeliveryDate,FreightCost,Exception
+SHP0001,FedEx,Chicago,Seattle,2025-04-01,2025-04-01,120.5,None
+SHP0002,UPS,Atlanta,Miami,2025-04-02,2025-04-03,110.0,Late
+SHP0003,DHL,Dallas,Boston,2025-04-03,2025-04-03,98.3,None
+SHP0004,USPS,Los Angeles,Denver,2025-04-04,2025-04-06,105.0,Damaged
+SHP0005,FedEx,New York,Phoenix,2025-04-05,2025-04-05,115.7,None
+SHP0006,UPS,Chicago,Seattle,2025-04-06,2025-04-06,120.5,None
+SHP0007,DHL,Atlanta,Miami,2025-04-07,2025-04-08,110.0,Late
+SHP0008,USPS,Dallas,Boston,2025-04-08,2025-04-08,98.3,None
+SHP0009,FedEx,Los Angeles,Denver,2025-04-09,2025-04-11,105.0,Damaged
+SHP0010,UPS,New York,Phoenix,2025-04-10,2025-04-10,115.7,None
+SHP0011,DHL,Chicago,Seattle,2025-04-11,2025-04-11,120.5,None
+SHP0012,USPS,Atlanta,Miami,2025-04-12,2025-04-13,110.0,Late
+SHP0013,FedEx,Dallas,Boston,2025-04-13,2025-04-13,98.3,None
+SHP0014,UPS,Los Angeles,Denver,2025-04-14,2025-04-16,105.0,Damaged
+SHP0015,DHL,New York,Phoenix,2025-04-15,2025-04-15,115.7,None
+SHP0016,USPS,Chicago,Seattle,2025-04-16,2025-04-16,120.5,None
+SHP0017,FedEx,Atlanta,Miami,2025-04-17,2025-04-18,110.0,Late
+SHP0018,UPS,Dallas,Boston,2025-04-18,2025-04-18,98.3,None
+SHP0019,DHL,Los Angeles,Denver,2025-04-19,2025-04-21,105.0,Damaged
+SHP0020,USPS,New York,Phoenix,2025-04-20,2025-04-20,115.7,None
